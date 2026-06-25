@@ -14,7 +14,7 @@ lang: ''
 
 > 记录我从学习 Python 到搭建个人技术博客的过程。
 
-![博客头图](public\images\first1.png)
+![博客头图](/images/first1.png)
 
 ---
 
@@ -62,7 +62,7 @@ lang: ''
 
 ## 🐙 第一次接触 GitHub
 
-![GitHub学习](public\images\first2.png)
+![GitHub学习](/images/first2.png)
 
 一开始，我对 GitHub 的理解很简单：
 
@@ -219,7 +219,7 @@ Django
 
 > 技术之路，道阻且长；行则将至。
 
-![写在最后](public\images\first3.png)
+![写在最后](/images/first3.png)
 
 从学习 Python 到拥有自己的博客，我走的只是很小的一步，但这一步对我来说很真实。
 
