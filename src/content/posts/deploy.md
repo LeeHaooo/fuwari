@@ -212,6 +212,7 @@ ImageNotFound
 ```markdown
 ![博客头图](/images/first1.png)
 ```
+![本地路径和网站路径](/images/second5.png)
 
 也就是说：
 
@@ -243,6 +244,8 @@ localhost
 那一刻我才觉得，这个博客算是从我的电脑里走出去了。
 
 ## 📈这次经历让我学到了什么
+
+！[Git Clone 只是学习项目的入口](/images/second6.png)
 
 第一，`git clone` 不是终点。
 
