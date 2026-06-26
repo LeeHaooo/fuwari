@@ -245,7 +245,7 @@ localhost
 
 ## 📈这次经历让我学到了什么
 
-！[只是学习项目的入口](/images/second6.png)
+![总结](/images/second6.png)
 
 第一，`git clone` 不是终点。
 
