@@ -237,9 +237,9 @@
 
 
 
-🐙 GitHub：你的 GitHub 地址
+🐙 GitHub：
 
-📧 Email：你的邮箱（可选）
+📧 Email：
 
 ***
 
