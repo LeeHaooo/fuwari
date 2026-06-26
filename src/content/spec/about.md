@@ -1,9 +1,252 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+**# About**
 
-::github{repo="saicaca/fuwari"}
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+
+# **# 👋 关于我**
+
+
+
+\> ***\*记录每一次从「不会」到「会」的过程。\****
+
+
+
+你好，我是 ***\*Simon\****。
+
+
+
+欢迎来到我的个人博客 👋
+
+
+
+这里不是一本技术百科，也不是一份标准教程。
+
+
+
+它更像是一份公开的学习日记，记录着我从 ***\*Python 初学者\**** 一步步成长为开发者的过程。
+
+
+
+如果你和我一样，也是在学习编程，希望这里的一些经历能给你一点帮助。
+
+
+
+------
+
+
+
+✅ Python 基础
+
+⬇️
+
+✅ Git & GitHub
+
+⬇️
+
+✅ 搭建个人博客
+
+⬇️
+
+📖 Python 面向对象（学习中）
+
+⬇️
+
+⏳ 网络编程
+
+⬇️
+
+⏳ HTML & CSS
+
+⬇️
+
+⏳ JavaScript
+
+⬇️
+
+🎯 全栈开发
+
+------
+
+
+
+# **# 💻 关于这个博客**
+
+这个博客主要记录：
+
+🐍 Python 学习笔记
+
+🌐 Web 开发学习过程
+
+🐙 Git & GitHub 使用心得
+
+🚀 个人项目实践
+
+💡 踩坑记录
+
+✨ 一些值得分享的小技巧
+
+
+
+相比于直接整理知识点，我更喜欢记录：
+
+> 我为什么不会
+
+> 我是怎么理解它的？
+
+> 我踩了哪些坑？
+
+因为这些往往比答案本身更有价值。
+
+------
+
+
+
+# 🧰 我的开发环境
+
+| 项目              | 配置                    |
+| ----------------- | ----------------------- |
+| 💻 Laptop          | ThinkBook 14+           |
+| ⚙️ CPU             | Intel Core Ultra 5 225H |
+| 💾 Memory          | 32 GB                   |
+| 🐍 Language        | Python                  |
+| 📝 Editor          | VS Code / PyCharm       |
+| 🌐 Blog            | Astro + Fuwari          |
+| 🚀 Deploy          | Vercel                  |
+| 🐙 Version Control | Git & GitHub            |
+
+------
+
+
+
+# 📚 学习路线图
+
+## 第一阶段：Python
+
+✅ Python 基础
+
+⏳ 面向对象
+
+⏳ 网络编程
+
+⏳ 常用第三方库
+
+------
+
+
+
+## 第二阶段：Web
+
+⏳ HTML
+
+⏳ CSS
+
+⏳ JavaScript
+
+⏳ TypeScript
+
+------
+
+
+
+## 第三阶段：全栈
+
+⏳ React
+
+⏳ Django / FastAPI
+
+⏳ Docker
+
+⏳ Linux
+
+------
+
+
+
+# ✍ 为什么写博客？
+
+
+
+很多时候：今天学会了，明天忘了。如果只是学习，很容易停留在"我好像学过"。但如果能够：学习  ->  理解  ->  实践  ->  总结  ->  分享
+
+
+
+知识就真正属于自己了。
+
+所以，这个博客不仅是写给别人看的。
+
+更是写给未来的自己。
+
+希望几年以后再回来，还能记得今天因为解决一个 Bug 而开心半天。
+
+***
+
+
+
+# 📖 已发布文章
+
+## Python 初学者成长日志
+
+
+
+✅ 第 1 篇：《从 Python 初学者到拥有自己的博客》
+
+
+
+✅ 第 2 篇：《Git Clone 后我到底经历了什么》
+
+
+
+⏳ 第 3 篇：《Python 面向对象学习笔记》
+
+
+
+⏳ 第 4 篇：《Python 网络编程学习笔记》
+
+
+
+⏳ 第 5 篇：《Python 与 GitHub 阶段总结：迈向前端》
+
+***
+
+
+
+# 🎯 2026 Goals
+
+☑ 坚持写博客
+
+☑ 学好 Python
+
+☑ 掌握 Git
+
+☑ 学习前端开发
+
+☐ 完成一个完整项目
+
+☐ 学习 Docker
+
+☐ 学习 Linux
+
+☐ 成为全栈开发者
+
+***
+
+
+
+# 📬 联系我
+
+如果你也在学习编程，欢迎一起交流。
+
+
+
+🐙 GitHub：你的 GitHub 地址
+
+📧 Email：你的邮箱（可选）
+
+***
+
+
+
+> Code · Learn · Share · Repeat
+
+感谢你的访问，愿我们都能在代码的世界里不断成长 🚀
+
+:::
