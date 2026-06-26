@@ -4,7 +4,7 @@ published: 2026-06-25
 description: '从一个只会 git clone 的初学者，到成功运行并部署个人博客项目，我踩过的那些坑。'
 image: ''
 tags: [Git, Github, Astor, 学习记录]
-category: '打怪升级'
+category: '📚 Python 初学者成长日志'
 draft: false 
 lang: ''
 ---

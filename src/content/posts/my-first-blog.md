@@ -4,7 +4,7 @@ published: 2026-06-23
 description: '记录我搭建个人技术博客的过程，以及这段时间的学习感悟。'
 image: ''
 tags: [Python, Github, Astor, Fuwari, 学习记录]
-category: '打怪升级'
+category: '📚 Python 初学者成长日志'
 draft: false 
 lang: ''
 ---
